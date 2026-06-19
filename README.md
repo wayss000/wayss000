@@ -1,48 +1,40 @@
-<h1 align="center">Hi, I'm wayss000</h1>
+<h1 align="center">你好，我是拾水木</h1>
 
 <p align="center">
-  Traditional software engineer turned AI Native Coder
+  一个成长于传统软件工程体系中的 AI Native Coder
 </p>
 
 <p align="center">
-  I focus on how AI can improve personal efficiency, create genuinely useful content, and build software tools that help real people.
+  关注 AI 如何提升个人效率，持续输出真正有帮助的内容，也努力做出真正有用的软件工具。
 </p>
 
 ---
 
-## Who I Am
+## 我正在做的事
 
-I grew up in traditional software engineering and am now becoming an AI native coder.
+- 研究 AI Agent 相关技术
+- 开发一款提升个人效率的 App
+- 持续输出个人 AI 助手方向的内容
 
-What I care about most is simple: how AI can meaningfully improve personal efficiency.
+## 已经完成的事
 
-I want to create things that are actually useful, whether that means content that helps people think more clearly, or software tools that help them work better.
+### [心探](https://github.com/wayss000/Inner-See)
 
-## What I'm Doing Now
+一个基于大语言模型的自我探索 App 工具。
 
-- Researching AI Agent technology
-- Building an app focused on personal efficiency
-- Consistently creating content around personal AI assistants
+### [动画讲算法](https://algo.lifestudylab.com/)
 
-## What I've Built
+用更直观的方式，把算法知识做成动画内容。
 
-### [Inner-See](https://github.com/wayss000/Inner-See)
+### [未来观察者日报](https://future.lifestudylab.com/)
 
-A self-exploration app powered by large language models.
-
-### [Animated Algorithms](https://algo.lifestudylab.com/)
-
-An animated project for learning algorithms in a more intuitive way.
-
-### [Future Observer Daily](https://future.lifestudylab.com/)
-
-A daily project for observing and curating signals about the future.
+一个持续观察未来趋势与信号的日报项目。
 
 ## Find Me
 
 - Blog: [blog.wayss000.com](https://blog.wayss000.com/)
-- WeChat Official Account:
+- 微信公众号：
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/wayss000/blog-pic/pic/wechat_office_qrcode.jpg" alt="WeChat Official Account QR Code" width="220" />
+  <img src="https://cdn.jsdelivr.net/gh/wayss000/blog-pic/pic/wechat_office_qrcode.jpg" alt="微信公众号二维码" width="220" />
 </p>
