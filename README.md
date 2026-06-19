@@ -18,10 +18,6 @@
 
 ## 已经完成的事
 
-### [心探](https://github.com/wayss000/Inner-See)
-
-一个基于大语言模型的自我探索 App 工具。
-
 ### [动画讲算法](https://algo.lifestudylab.com/)
 
 用更直观的方式，把算法知识做成动画内容。
@@ -29,6 +25,10 @@
 ### [未来观察者日报](https://future.lifestudylab.com/)
 
 一个持续观察未来趋势与信号的日报项目。
+
+### [心探](https://github.com/wayss000/Inner-See)
+
+一个基于大语言模型的自我探索 App 工具。
 
 ## Find Me
 
