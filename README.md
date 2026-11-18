@@ -33,7 +33,7 @@
 ## Find Me
 
 - Blog: [blog.wayss000.com](https://blog.wayss000.com/)
-- 即刻：[web.okjike.com/u/764ae737](https://web.okjike.com/u/764ae737-40ad-4730-bcec-193d5af97dec)
+- 极客-拾水木：[web.okjike.com/u/764ae737-40ad-4730-bcec-193d5af97dec](https://web.okjike.com/u/764ae737-40ad-4730-bcec-193d5af97dec)
 - 微信公众号：
 
 <p>
