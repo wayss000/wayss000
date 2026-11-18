@@ -33,6 +33,7 @@
 ## Find Me
 
 - Blog: [blog.wayss000.com](https://blog.wayss000.com/)
+- 即刻：[okjk.co/EG1gUi](https://okjk.co/EG1gUi)
 - 微信公众号：
 
 <p>
