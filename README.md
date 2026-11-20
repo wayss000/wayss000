@@ -12,9 +12,4 @@
 
 - 博客 · [blog.wayss000.com](https://blog.wayss000.com/)
 - 即刻 · [拾水木](https://web.okjike.com/u/764ae737-40ad-4730-bcec-193d5af97dec)
-
-微信公众号
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/wayss000/blog-pic/pic/wechat_office_qrcode.jpg" alt="微信公众号二维码" width="220" />
-</p>
+- 微信公众号 · [扫码关注](https://blog.wayss000.com/wechat/)
